@@ -1,0 +1,33 @@
+*{
+    margin: auto;
+}
+
+.Jason-content{
+    margin-bottom: 25px;
+    margin-top: 15px;
+}           
+a:hover{
+     background-color: #0894ff;
+     color: white;
+     padding: 1%;
+ }
+ #head a:hover{
+     background-color: #1010e9;
+     color: white;
+     font-weight: bold;
+     padding: 0.5%;
+     font-size: 1.5rem;
+     border: none;
+     transition: 0.2s all;
+ }
+.paragraphs{
+    margin-top: 35px;
+    margin-bottom: 30px;
+    font-family: Quicksand,sans-serif;
+}
+.headlines{
+    margin-bottom: 20px;
+    margin-top: 40px;
+    font-family: Ubuntu,sans-serif;
+    font-weight: bold;
+}
